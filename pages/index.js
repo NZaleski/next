@@ -1,3 +1,4 @@
+import App from '../App'
 const index = () => {
     return (
         <div>
